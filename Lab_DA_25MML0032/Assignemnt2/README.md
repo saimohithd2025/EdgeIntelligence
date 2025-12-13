@@ -39,11 +39,12 @@ The design:
 1.The model achieves an accuracy of approximately 77 %.
 
 2. Accuracy is evaluated using unknowm test data, ensuring fair performance.
-  
+
 3. This indicates that the model generalizes reasonably well to new names.
 
 **Loss Function**
 
 1.No explicit loss function is used.
+
 
 2. Naive Bayes relies on probability estimation rather than optimization-based loss minimization.
