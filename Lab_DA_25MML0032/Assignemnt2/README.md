@@ -1,4 +1,5 @@
 **Gender Classification using Naive Bayes**
+
 This project utilises a Naive Bayes classifier to classify names according to gender (male/female).  The algorithm uses probabilistic reasoning to estimate the gender of unseen names after learning patterns from a labelled dataset of names.
 The project is straightforward, lightweight, and appropriate for learning the principles of probability-based models, feature extraction from text input, and machine learning categorisation.
 
